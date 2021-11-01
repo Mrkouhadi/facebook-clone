@@ -12,11 +12,11 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Here are some screenshots of the project:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![fb-desktop-screen](https://user-images.githubusercontent.com/68134403/139707443-758014ec-d431-490b-970f-97903f22fa67.png)
+![fb-md-screen](https://user-images.githubusercontent.com/68134403/139707492-c456c309-6a62-4edd-b2ab-f6bb97c0a14f.png)
+![fb-mobile-screen](https://user-images.githubusercontent.com/68134403/139707507-3f69cfa6-9137-4a2e-b4bd-d0a921f31df0.png)
 
 ## Learn More
 
