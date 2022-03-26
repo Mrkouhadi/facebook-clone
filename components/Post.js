@@ -8,8 +8,8 @@ function Post({ name, message, email, postImage, image, timestamp }) {
                 <div className="flex items-center space-x-2">
                     <img className="rounded-full" 
                     src={image} 
-                    width={40} 
-                    height={40} 
+                    width={42} 
+                    height={42} 
                     alt="" />
                     <div>
                         <p className="font-medium">{name}</p>
