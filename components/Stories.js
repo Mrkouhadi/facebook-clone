@@ -12,12 +12,12 @@ const stories = [
         profile: "/images/avatars/hamza_muiret.jpg"
     },
     {
-        name: "Ayoub BebiiiLa",
+        name: "BebiiiLa",
         src: "/images/users/ayoub_hakkam.jpg",
         profile: "/images/avatars/ayoub_hakkam.jpg"
     },
     {
-        name: "Samir Lakhssam",
+        name: "Banana",
         src: "/images/users/samir_lakhsam.jpg",
         profile: "/images/avatars/samir_lakhssam.jpg"
     },
