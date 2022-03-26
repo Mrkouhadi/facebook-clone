@@ -5,8 +5,10 @@
 @layer components{
     .icon{
         @apply hidden xl:inline-flex  w-10 h-10 p-2 bg-gray-200 rounded-full text-gray-700 cursor-pointer hover:bg-gray-300;
+        
     }
     .inputIcon{
         @apply flex items-center space-x-1 hover:bg-gray-100 flex-grow justify-center p-2 rounded-xl cursor-pointer;
+        
     }
 }
