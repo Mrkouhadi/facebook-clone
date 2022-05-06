@@ -1,6 +1,6 @@
 A clone of Facebook webapp built in Nextjs && REactjs && tailwindcss && Firebase && heroIcons
 
-## Getting Started
+### Getting Started
 
 First, start the development server by running:  
 
